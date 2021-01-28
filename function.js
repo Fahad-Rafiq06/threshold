@@ -16,6 +16,6 @@ var tax = "Your Shopping tax is ";
 
 
 var b =shopping(80);
-alert (b);
+
 
 
