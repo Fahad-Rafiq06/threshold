@@ -15,7 +15,7 @@ var extra = "Your Shopping is upto ";
 var tax = "Your Shopping tax is ";
 
 
-var b =shopping(80);
+var e =shopping(80);
 
 
 
